@@ -9,7 +9,7 @@ AOL Desktop Gold continues to be a reliable platform for users who want a secure
 .. raw:: html
 
    <div style="text-align:center;">
-       <a href="https://baselinkhelp.click/desktop-gold-software/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with IoBit</a>
+       <a href="https://baselinkhelp.click/desktop-gold-software/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with AOL Gold</a>
    </div>
    
 
